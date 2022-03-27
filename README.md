@@ -97,3 +97,9 @@ secret key input of pressing 4 on the main menu. This will print out a txt file 
 
 ![image](https://user-images.githubusercontent.com/96846431/160198083-24d18fb3-4a89-44a8-8276-c3a0b667e13a.png)
 
+
+Unit Testing Developed. Sample below, Coinbox unit test. 
+///////////////////////////////////////////////////////////////
+![image](https://user-images.githubusercontent.com/96846431/160305024-b60f647e-2482-41a3-bff1-6a64544b12f9.png)
+
+
