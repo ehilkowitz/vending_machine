@@ -20,7 +20,9 @@ The vending machine inventory is stocked via an input file when the vending mach
 a list of all items in the vending machine with its quantity remaining:
 
 ○ Each vending machine product has a slot identifier and a purchase price.
+
 ○ Each slot in the vending machine has enough room for 5 of that product.
+
 ○ A product that has run out will indicate that it is SOLD OUT.
 
 ![Display_Items_Menu](https://user-images.githubusercontent.com/96846431/160197649-54cb221c-eafa-42c7-8c23-f427f48b53ce.JPG)
