@@ -8,6 +8,7 @@ The vending machine dispenses beverages, candy, chips, and gum.
 Each vending machine item has a Name and a Price. As well as Qty Remaining.
 
 A main menu must display when the software runs, presenting the following options:
+
 (1) Display Vending Machine Items
 
 (2) Purchase
@@ -85,10 +86,15 @@ Product Name The display name of the vending machine product.
 Price The purchase price for the product.
 Type The product type for this row.
 For example:
+
 A1|Potato Crisps|3.05|Chip
+
 B1|Moonpie|1.80|Candy
+
 B2|Cowtales|1.50|Candy
+
 C1|Cola|1.25|Drink
+
 Vendingmachine.csv. Additional inventory files will be added to rotate in new items.
 
 
