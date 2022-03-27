@@ -9,8 +9,11 @@ Each vending machine item has a Name and a Price. As well as Qty Remaining.
 
 A main menu must display when the software runs, presenting the following options:
 (1) Display Vending Machine Items
+
 (2) Purchase
+
 (3) Exit
+
 
 The vending machine inventory is stocked via an input file when the vending machine starts.
 
